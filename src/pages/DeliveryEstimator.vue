@@ -1,7 +1,7 @@
 <template>
   <div class="container py-4">
     <div class="text-center mb-3">
-      <a href="https://vite.dev" target="_blank">
+      <a href="https://balibikesisland.com" target="_blank">
         <img src="../assets/logo-bali-bikes-main-hz.png" class="img-fluid logo" alt="Vite logo" />
       </a>
     </div>
